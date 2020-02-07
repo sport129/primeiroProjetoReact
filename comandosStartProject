@@ -1,0 +1,12 @@
+commands para inicializar um projeto react
+
+1 - yarn init - y (comando para criar o package.json)
+2 - yarn add @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli
+ (comando para instalar as dependencias do webpack)
+3 - yarn add react react-dom (instalar o react)
+4 - yarn add babel-loader -D
+5 - yarn add webpack-dev-server -D
+6 - yarn add style-loader css-loader -D
+7 - yarn add file-loader -D
+8 - yarn add @babel/plugin-proposal-class-properties -D
+9 - yarn add prop-types
